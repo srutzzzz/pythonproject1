@@ -1,3 +1,4 @@
 # pythonproject1
-## editing the file
-its a markdown file in this respository.
+## firstpython.py
+print("new python file")
+.
